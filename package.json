@@ -1,0 +1,22 @@
+{
+  "name": "discord-living",
+  "version": "1.0.0",
+  "description": "this project make for education ! you can make ur discord account alive 24/7 and send activity as streaming with twitch API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "httpshttps://github.com/meassamrong/discord-living.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "J'Corp#528",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.5",
+    "dotenv": "^10.0.0"
+  }
+}
